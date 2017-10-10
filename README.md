@@ -20,3 +20,7 @@ so tips are 383m/s
 sea level speed of sound is 344 m/s   
 Tips are supersonic...  
 
+
+
+http://wiki.flightgear.org/Howto:Make_a_helicopter
+
