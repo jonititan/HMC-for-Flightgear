@@ -2,8 +2,8 @@
 Hiller Monster Chopper for Flightgear based on the aircraft described in Hiller Advanced Planning &amp; Research Division Report No.65-5
 Sent to NASA 01/05/1965
 
-Notebook Calculations
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jonititan/HMC-for-Flightgear/master?filepath=Hiller Monster Chopper Exercise.ipynb)
+Notebook Calculations\\
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jonititan/HMC-for-Flightgear/master?filepath=Hiller%20Monster%20Chopper%20Exercise.ipynb)
 
 Aircraft is referenced in article by Dwayne Day
 http://www.thespacereview.com/article/1045/1
